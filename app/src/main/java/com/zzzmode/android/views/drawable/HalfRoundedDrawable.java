@@ -1,4 +1,4 @@
-package com.zzzmode.android.views;
+package com.zzzmode.android.views.drawable;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;

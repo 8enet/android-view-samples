@@ -1,4 +1,4 @@
-package com.zzzmode.android.views;
+package com.zzzmode.android.views.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -15,6 +15,9 @@ import android.graphics.drawable.Drawable;
 import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.view.View;
+import com.zzzmode.android.views.LayoutHelper;
+import com.zzzmode.android.views.R;
+import com.zzzmode.android.views.drawable.RoundedDrawable;
 
 
 public class RoundContentView extends View {

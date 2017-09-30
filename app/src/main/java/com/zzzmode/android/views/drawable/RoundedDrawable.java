@@ -1,4 +1,4 @@
-package com.zzzmode.android.views;
+package com.zzzmode.android.views.drawable;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;
@@ -12,6 +12,9 @@ import android.graphics.RectF;
 import android.graphics.Shader;
 import android.graphics.drawable.Drawable;
 
+/**
+ * 圆形drawable
+ */
 public  class RoundedDrawable extends Drawable {
 
         private int width;
